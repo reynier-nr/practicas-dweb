@@ -1,0 +1,15 @@
+/*Documento css*/
+
+body { background-color: #e7faed; }
+
+h1,h3 { color: red; 
+        font-size: 32px; 
+        line-height: 140%; 
+        text-decoration: underline; 
+        text-align: center; }
+
+h2,h4 { color: green; }
+
+h5,h6 { color:purple; }
+
+h1 { color:orange; }
